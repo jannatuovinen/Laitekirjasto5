@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laitekirjasto5", "Laitekirjasto5.csproj", "{746625C3-BD08-4625-8975-CAD272A03370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{746625C3-BD08-4625-8975-CAD272A03370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746625C3-BD08-4625-8975-CAD272A03370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746625C3-BD08-4625-8975-CAD272A03370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746625C3-BD08-4625-8975-CAD272A03370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5CE7AF7-D2A4-4EEF-9B0F-7D89EA6F3257}
+	EndGlobalSection
+EndGlobal
